@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/fanindhrathirunagaru"><img src="https://api.daily.dev/devcards/v2/9gfEoP5tMRFkJsYBWater.png?type=default&r=bvu" width="356" alt="Fanindhra Thirunagaru's Dev Card"/></a>
+
 <!--
 **FanindhraThirunagaru/FanindhraThirunagaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
